@@ -1,0 +1,29 @@
+Data Espionage
+{
+  types 
+  {
+    Hacking and Cyberattacks: Unauthorized access to computer systems, often to steal sensitive information such as trade secrets, military data, or personal identities.
+    
+    Phishing and Social Engineering: Manipulating individuals into revealing confidential information through deceptive emails, messages, or phone calls, often for financial gain or access to systems.
+    
+    Physical Theft of Data: Stealing physical devices like laptops, USB drives, or hard drives to obtain sensitive data, often used in corporate or government espionage.
+    
+    Spyware and Malware: Installing malicious software on a target's device to monitor their activity, steal data, or disrupt operations.
+    
+    Data Breaches: Gaining unauthorized access to databases or networks, often by exploiting vulnerabilities to harvest large quantities of sensitive data.
+    
+    Intellectual Property Theft: Stealing or copying proprietary information like patents, designs, or algorithms, which is especially common in industries like tech or pharmaceuticals.
+    
+    Piracy (Music, Software, and Game Piracy): Illegally copying or distributing music, software, or video games, often to bypass copyrights and generate illicit profits or undermine competitors.
+    
+    Supply Chain Attacks: Compromising trusted software providers or vendors to infiltrate a target's network, allowing data theft through legitimate channels.
+    
+    Eavesdropping on Communications: Intercepting digital or phone communications, including emails, messages, or calls, to gather confidential information.
+  }
+  How it affects the world
+  {
+    Data espionage is increasingly threatening individuals' privacy, as sensitive personal information is stolen or exploited for financial gain, identity theft,or manipulation.
+    On a larger scale, it’s shaping geopolitics by fueling tensions between nations, with cyberattacks and data breaches becoming tools for espionage and strategic advantage.
+    As countries vie for control over data and technology, this digital warfare complicates international relations and raises concerns about global security, privacy, and trust.
+  }
+}
